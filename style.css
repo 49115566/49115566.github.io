@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #EBF0F2;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color: #00695C; /* Dark teal/green */
+}
+
+.menu-icon i,
+.user-signin i {
+    font-size: 24px;
+}
+
+.user-signin {
+    display: flex;
+    align-items: center;
+}
+
+.user-signin span {
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.logo-section img {
+    width: 150px; /* Adjust as needed */
+    height: auto;
+}
+
+.tagline {
+    color: #00695C; /* Dark teal/green */
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.search-section {
+    margin-top: 50px; /* Adjust as needed */
+    width: 80%;
+    max-width: 500px;
+}
+
+.dropdown-container {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+}
+
+.dropdown-container input[type="text"] {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    color: #888888;
+    font-size: 16px;
+    box-sizing: border-box;
+    padding-right: 40px; /* Space for the arrow */
+}
+
+.dropdown-container .dropdown-arrow {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888888;
+    transition: transform 0.3s ease;
+}
+
+.dropdown-container .dropdown-arrow.rotated {
+    transform: translateY(-50%) rotate(180deg);
+}
+
+.dropdown-options {
+    display: none;
+    position: absolute;
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 1000;
+    margin-top: 5px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-options.show {
+    display: block;
+}
+
+.dropdown-item {
+    padding: 12px 15px;
+    cursor: pointer;
+    color: #00695C; /* Dark teal/green */
+    text-align: left;
+}
+
+.dropdown-item:hover,
+.dropdown-item.active {
+    background-color: #EBF0F2; /* Light background on hover/active */
+}
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+    color: #555555; /* Dark grey */
+    font-size: 14px;
+}

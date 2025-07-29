@@ -1,0 +1,196 @@
+.second-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color: #00695C; /* Dark teal/green */
+}
+
+.second-page-header .header-logo {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.second-page-header .header-logo img {
+    height: 40px; /* Adjust as needed to match image */
+    width: auto;
+}
+
+.second-page-main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    justify-content: flex-end; /* Push content to the bottom */
+}
+
+#chat-container {
+    width: 80%;
+    max-width: 600px;
+    flex-grow: 1;
+    overflow-y: auto;
+    padding-bottom: 20px; /* Space for input field */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Keep messages at the bottom */
+}
+
+.chat-message {
+    background-color: #F0F0F0;
+    border-radius: 15px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    max-width: 70%;
+    word-wrap: break-word;
+}
+
+.chat-message.user {
+    background-color: #00695C; /* Dark teal/green */
+    color: #FFFFFF;
+    align-self: flex-end;
+    border-bottom-right-radius: 2px; /* Pointy corner for user */
+}
+
+.chat-message.ai {
+    background-color: #EBF0F2;
+    color: #333333;
+    align-self: flex-start;
+    border: none;
+    border-bottom-left-radius: 2px; /* Pointy corner for AI */
+    text-align: left;
+}
+
+.main-question {
+    color: #00695C; /* Dark teal/green */
+    font-size: 22px;
+    margin-bottom: 30px;
+    text-align: left;
+    width: 80%; /* Adjust to align with cards */
+    max-width: 400px; /* Max width for content alignment */
+}
+
+.options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 30px;
+    align-items: flex-start; /* Align cards to the left */
+    width: 80%;
+    max-width: 400px;
+}
+
+.option-card {
+    background-color: #FFFFFF;
+    border: 1px solid #A0C4CC; /* Lighter teal/greenish-blue */
+    border-radius: 8px;
+    padding: 15px 20px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: left;
+    cursor: pointer;
+}
+
+.option-card:hover {
+    background-color: #F5F5F5;
+}
+
+.option-main-text {
+    color: #00695C; /* Dark teal/green */
+    font-size: 18px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.option-sub-text {
+    color: #A0C4CC; /* Lighter teal/greenish-blue */
+    font-size: 14px;
+    margin: 5px 0 0 0;
+}
+
+.selected-option-button {
+    background-color: #8FA6A9; /* Muted blue-grey */
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 15px 20px;
+    margin-left: auto; /* Push to the right */
+    margin-right: 10%; /* Adjust as needed for positioning */
+    width: fit-content;
+    min-width: 200px; /* Ensure it's wide enough */
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.selected-option-button p {
+    margin: 0;
+}
+
+.bottom-input-field {
+    display: flex;
+    width: 80%;
+    max-width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bottom-input-field input[type="text"] {
+    flex-grow: 1;
+    padding: 15px;
+    border: 1px solid #A0C4CC;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+}
+
+.bottom-input-field button {
+    background-color: #00695C;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 15px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.bottom-input-field button:hover {
+    background-color: #004d40;
+}
+
+/* Styles for dynamically added content */
+.signup-prompt {
+    background-color: #EBF0F2;
+    border: 1px solid #A0C4CC;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.signup-prompt h3 {
+    color: #00695C;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.signup-prompt p {
+    color: #333333;
+    margin-bottom: 15px;
+}
+
+.signup-button {
+    display: inline-block;
+    background-color: #00695C;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signup-button:hover {
+    background-color: #004d40;
+}

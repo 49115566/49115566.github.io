@@ -1,0 +1,9 @@
+Headings: F
+Paragraph: Familjen Grotesk
+
+Color Palette:
+Teal #206f77
+Green #009374
+Yellow #dcb23a
+Dark Green #1c4c52
+Muted Blue #98b6ba

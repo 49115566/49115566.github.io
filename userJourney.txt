@@ -1,0 +1,179 @@
+Enter Landing Page
+Click “Learn About”
+Drop down menu with options: Anxiety, Depression, Stress
+
+Click Anxiety > In same window AI chat opens up
+“What would you like to do today?”
+Drop down menu with options: 
+I want to understand (learn the basics, myths, and facts)
+I need to calm down now (get a quick tool or exercise)
+I am looking for resources (find support, crisis lines, or next steps)
+“I want to understand”
+AI response:
+Anxiety is a natural response your body and mind have to stress or uncertainty. It can feel like worry, nervousness, or a sense that something bad might happen—even if you’re not sure why. Almost everyone experiences anxiety at some point, and it doesn’t mean you’re weak or broken. In fact, a little anxiety can sometimes help you prepare for challenges, like a big meeting or a tough conversation.
+
+But anxiety can become a problem when it sticks around, even after the stress is gone, or when it makes daily life harder. You might notice racing thoughts, trouble sleeping, a tight chest, or avoiding things that make you nervous.
+
+Myth-buster: Anxiety isn’t “all in your head.” It’s a real, whole-body experience, and you’re not alone in feeling it. Ever notice your mind jumping to worst-case scenarios, or your body feeling tense for no clear reason? That’s anxiety showing up.
+
+
+“I need to calm down now”
+AI response:
+Let’s walk through two calming exercises together. You can use either one—or both—whenever anxiety feels overwhelming.
+
+{Insert Lotus Flower Breathing Video}
+Box Breathing
+This is a simple breathing technique to help your body and mind reset. Use video to guide you, (the petals expanding is 4 seconds and contracting is another 4 seconds)
+Breathe in slowly through your nose for a count of 4. 
+Hold your breath for a count of 4.
+Breathe out gently through your mouth for a count of 4.
+Hold again for a count of 4.
+Repeat this cycle 3 or 4 times. Notice if your shoulders drop or your heartbeat slows, even a little. It’s okay if it takes a few rounds to feel a shift.
+
+5-4-3-2-1 Grounding Exercise
+This helps bring you back to the present moment using your senses.
+
+Start with a slow, deep breath.
+Look around and name 5 things you can see.
+Touch 4 things you can feel.
+Listen for 3 things you can hear.
+Notice 2 things you can smell.
+Focus on 1 thing you can taste.
+
+Take your time with each step. The goal isn’t to rush—just to notice what’s around you and give your mind a break from anxious thoughts.
+
+Even small shifts count. You’re doing something good for yourself by pausing here. Would you like an affirmation or a gentle reminder to carry with you?
+
+“I am looking for resources”
+AI response:
+If you’re looking for resources to help with anxiety, you have several supportive options—no matter where you are in your journey.
+
+If you need immediate support, you can call or text the national crisis lifeline at 988. You’ll reach someone who’s trained to listen and help, 24/7.
+
+You can also visit trusted sites like NAMI or Mental Health America for more information and self-help tools.
+
+If you’d like to connect with a professional, you can browse our directory of nationwide therapists—it’s easy to search for someone who fits your needs, whether you prefer in-person or virtual support.
+
+When you sign up for our platform, you’ll unlock guided journals, mood trackers, and a selection of video courses designed to help you manage anxiety and build resilience.
+
+For more personalized support, our coaching services are available. We offer individual coaching, group workshops, and membership options for ongoing growth. If you’re interested in deeper support, higher-tier members can use our AI coach for unlimited chat, schedule calls, or even connect one-on-one with one of our licensed coaches.
+
+
+You’re not alone, and reaching out is a sign of strength. If you’d like, I can guide you to our therapist directory, help you sign up for the platform, or share more about our coaching options. What feels like the best next step for you?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click Depression > In same window AI chat opens up
+“What would you like to do today?”
+“I want to understand”
+Depression is more than just feeling sad—it’s a deep, lasting sense of emptiness or hopelessness that can make daily life feel heavy. It’s common, and it doesn’t mean you’re failing or weak. Many people experience depression at some point, and it can show up as low energy, loss of interest in things you used to enjoy, changes in sleep or appetite, or feeling numb and disconnected.
+
+Myth-buster: Depression isn’t something you can just “snap out of.” It’s a real condition that affects your mind and body.
+
+Ever notice you’re going through the motions, but nothing feels meaningful? Or maybe you find it hard to reach out, even to people you care about. That’s depression showing up—not a personal flaw, just a tough season.
+
+“I need a gentle boost”
+AI response:
+When you’re feeling weighed down, sometimes the smallest step can make a difference. Let’s try something gentle together—no pressure, just a little boost.
+
+You might start by picking one simple thing you can do right now, like standing up and stretching, opening a window for fresh air, or sending a quick text to someone you trust. Even tiny actions count.
+
+If you’d like, you can try the “Three Good Things” exercise:
+Write down three things—big or small—that went okay today. Maybe you finished a task, heard a song you like, or just got out of bed. Give yourself credit for each one.
+
+Or, if you’d rather, take a mindful moment:
+Sit quietly, close your eyes if that feels safe, and take a slow breath in. Notice the feeling of the air, the sounds around you, or the way your body feels in the chair. You don’t have to change anything—just notice.
+
+Remember, you don’t have to do this perfectly. Every small step is a win. Here’s a gentle reminder to carry with you:
+
+“This too shall pass. Even on the hardest days, I am worthy of care and small kindnesses. I don’t have to do it all at once—one gentle step at a time is enough.”
+
+If you’d like more support, you can sign up for our platform to access guided journals, mood trackers, and video courses. Higher-tier members can chat with our AI coach anytime, schedule calls, or connect one-on-one with one of our licensed coaches.
+
+You’re not alone, and support is always here when you’re ready.
+
+{Insert Sign Up Option}
+
+“I am looking for resources”
+AI response:
+If you’re looking for resources to help with anxiety, you have several supportive
+	options—no matter where you are in your journey.
+	
+	If you need immediate support, you can call or text the national crisis lifeline at 988.
+	You’ll reach someone who’s trained to listen and help, 24/7.
+
+You can also visit trusted sites like NAMI or Mental Health America for more
+	information and self-help tools.
+
+If you’d like to connect with a professional, you can browse our directory of
+	nationwide therapists—it’s easy to search for someone who fits your needs, whether
+	you prefer in-person or virtual support.
+
+When you sign up for our platform, you’ll unlock guided journals, mood trackers,
+	and a selection of video courses designed to help you manage anxiety and build
+	resilience.
+
+For more personalized support, our coaching services are available. We offer
+	individual coaching, group workshops, and membership options for ongoing
+	growth. If you’re interested in deeper support, higher-tier members can use our AI
+	coach for unlimited chat, schedule calls, or even connect one-on-one with one of our
+	licensed coaches.
+
+
+You’re not alone, and reaching out is a sign of strength. If you’d like, I can guide you
+	to our therapist directory, help you sign up for the platform, or share more about
+	our coaching options. What feels like the best next step for you?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click Stress > In same window AI chat opens up
+“What would you like to do today?”
+
+
+Identifying Your Personal Stressors
+AI Response:
+Sometimes stress feels like it’s everywhere, but often there are patterns—certain people, places, or situations that set it off. If you’re curious about what really triggers your stress, you might start by tracking your mood or energy for a few days. Notice when you feel tense or drained. Is it after meetings? When you’re alone? Even just naming these moments can be a relief. If you want to go deeper, we can work together to map out your stress triggers and start building a toolkit for those tough moments. If you’re ready to explore this with guidance, you can sign up for a plan that fits your needs: some options give you a set number of chats with me each month, while others offer unlimited messaging, scheduled calls, or even video sessions as they become available. And if you ever want to connect with a real coach, we have memberships that include live online or in-person support.
+
+
+Coping Strategies—Internal and External
+AI response
+Once you know your stress triggers, the next step is finding what actually helps you cope. This could be internal skills like mindful breathing or journaling, or reaching out to someone you trust. Sometimes it’s about experimenting—what works for one person might not work for another.
+If you’d like, we can try a quick grounding exercise together, or brainstorm a list of coping tools that fit your lifestyle. Want to keep practicing and get new strategies each month? You can sign up for a plan that fits your needs: some options give you a set number of chats with me each month, while others offer unlimited messaging, scheduled calls, or even video sessions as they become available. And if you ever want to connect with a real coach, we have memberships that include live online or in-person support.
+
+Building Resilience and Changing Mindset
+AI Response:
+Resilience isn’t about never feeling stressed—it’s about bouncing back and learning from what life throws at you. Sometimes, it helps to ask yourself: What can I learn from this challenge? Is there a silver lining, even if it’s small? Maybe you discover you’re stronger than you thought, or you find new ways to ask for support.
+
+One way to build resilience is to get clear on your values. When you know what matters most to you—family, creativity, honesty—it’s easier to stay grounded when things get tough. Can you think of a time when you faced a setback, but found a way through because you were fighting for something important to you? 
+
+If you’d like to keep exploring what’s coming up for you—whether it’s understanding your triggers, building new coping skills, or just having a safe space to talk—you’re welcome to continue this conversation right here with me.
+
+You can sign up for a plan that fits your needs: some options give you a set number of chats with me each month, while others offer unlimited messaging, scheduled calls, or even video sessions as they become available. And if you ever want to connect with a real coach, we have memberships that include live online or in-person support.
