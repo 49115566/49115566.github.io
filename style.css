@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #EBF0F2;
+    background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -114,7 +114,7 @@ main {
 
 .dropdown-item:hover,
 .dropdown-item.active {
-    background-color: #EBF0F2; /* Light background on hover/active */
+    background-color: #FFFFFF; /* Light background on hover/active */
 }
 
 
