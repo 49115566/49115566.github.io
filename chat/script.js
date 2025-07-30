@@ -1,8 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const chatContainer = document.getElementById('chat-container');
     const optionsContainer = document.getElementById('options-container');
-    const selectedOptionButton = document.getElementById('selected-option-button');
-    const selectedOptionText = document.getElementById('selected-option-text');
     const chatInput = document.getElementById('chat-input');
     const sendButton = document.getElementById('send-button');
 
@@ -69,10 +67,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 const option = optionData.dataOption;
                 const userMessageText = optionData.mainText;
 
-                // Display user's selected option
-                selectedOptionText.textContent = userMessageText;
-                selectedOptionButton.style.display = 'block';
-                optionsContainer.style.display = 'none'; // Hide options after selection
+                // Hide options after selection
+                optionsContainer.style.display = 'none';
+
+                // Create a user message immediately with typing effect
+                const userMessageDiv = addMessage('user', '');
+                await renderMessageContent(userMessageDiv, [{ type: 'text', content: userMessageText }]);
 
                 // Display AI response
                 if (aiResponses[topic] && aiResponses[topic][option]) {
